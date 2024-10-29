@@ -82,7 +82,7 @@ public static void main(String[] args) throws Exception {
 
 ## Checklist
 
-Before you submit to Gradescope, check that you've done each of the following:
+Check that you've done each of the following:
 
 - Modify `Person201.java` by changing code in two places.
 - Verify that running `Person201Demo.java` matches the expected output after modifying `Person201.java`
